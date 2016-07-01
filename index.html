@@ -1,0 +1,23 @@
+---
+layout: home
+---
+
+<div class="home">
+
+  <header id="intro" class="fullwidth">
+    Hi, I’m <h1>Harrison Liddiard</h1>, a student at <h2><a href="http://ucla.edu" target="_blank">UCLA</a></h2>. I’ve been a software engineering intern at <h2><a href="http://www.nytimes.com" target="_blank">The New York Times</a></h2> and a fellow at <h2><a href="https://apply.hackny.org">hackNY</a></h2>. Take a look at my <h2><a href="/resume">resumé</a></h2> and <h2><a href="#projects">projects</a></h2>. You can also find me on the web on <h3><a href="https://linkedin.com/in/liddiard">LinkedIn</a></h3>, <h3><a href="https://github.com/liddiard">GitHub</a></h3>, and <h3><a href="https://twitter.com/HLiddiard">Twitter</a></h3>.
+  </header>
+
+  <h1 class="page-heading">Projects</h1>
+
+  <ul class="project-list">
+    {% for project in site.projects %}
+      <li>
+        <h2>
+          {{ project.title }}
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
