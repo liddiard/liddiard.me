@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<article class="project">
+
+  <header class="project-header">
+    <h1>{{ page.title }}</h1>
+    <h2>{{ page.description }}</h2>
+    <p>
+      <a class="link" href="{{ page.link }}" target="_blank">
+        {{ page.link | replace_first: 'http://', '' | replace_first: 'https://', '' }}
+      </a>
+    </p>
+    <p><strong>Involvement:</strong> {{ page.involvement }}</p>
+    <p><strong>Skills:</strong> {{ page.skills }}</p>
+    {% if page.github %}
+      <p>
+        <strong>GitHub:</strong>
+        <a href="https://github.com/{{ page.github }}" target="_blank">
+          {{ page.github }}
+        </a>
+      </p>
+    {% endif %}
+  </header>
+
+  <div class="project-content">
+    {{ content }}
+  </div>
+
+</article>
+
+<aside class="project-media">
+  {% for i in (1..page.num_images) %}
+    <img src="/img/projects/{{ page.slug }}/{{ i }}.png" />
+  {% endfor %}
+</aside>
+
+<script>
+  (function(){
+    var slider = new IdealImageSlider.Slider({
+      selector: '.project-media',
+      effect: 'fade'
+    });
+    slider.start();
+  })();
+</script>

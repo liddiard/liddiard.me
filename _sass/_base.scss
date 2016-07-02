@@ -23,6 +23,8 @@ body {
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
+    max-width: 1440px;
+    margin: 0 auto;
 }
 
 
@@ -83,7 +85,7 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: 800;
-    font-family: 'Open Sans', Helvetica, sans-serif;
+    font-family: $heading-font-family;
 }
 
 
@@ -98,7 +100,7 @@ a {
 
     &:hover {
         color: $brand-color;
-        box-shadow: 0 -0.08em 0 0 $brand-color inset;
+        box-shadow: 0 -0.08em 0 0 rgba($brand-color, 0.5) inset;
     }
 }
 

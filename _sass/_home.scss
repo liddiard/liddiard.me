@@ -13,9 +13,13 @@ header#intro {
         h1, h2, h3, h4, h5, h6 {
             display: inline-block;
         }
+
+        @include media-query($on-palm) {
+            font-size: 1em;
+        }
     }
 
-    .more-about-me {
+    .about-me {
         margin: 2.5em 0;
         color: rgba($text-color, 0.7);
 
@@ -25,6 +29,10 @@ header#intro {
 
         p {
             font-size: 1.2em;
+
+            @include media-query($on-palm) {
+                font-size: 1em;
+            }
         }
 
         .mug {
@@ -33,6 +41,7 @@ header#intro {
             border-radius: 50%;
             height: 100px;
             transition: transform 1s, box-shadow 1s;
+            box-shadow: 0 0 0 rgba(0,0,0, 0.3);
 
             &:hover {
                 transform: scale(2);
@@ -48,9 +57,10 @@ header#intro {
 
     li {
         $transition-duration: 0.25s;
+        $box-shadow-trim: 0 0 0 1px $grey-color-light;
         display: inline-block;
         margin: 1em;
-        box-shadow: 0 5px 20px rgba(0,0,0, 0.3);
+        box-shadow: $box-shadow-trim, 0 5px 20px rgba(0,0,0, 0.3);
         transition: box-shadow $transition-duration;
 
         &:hover {
@@ -68,8 +78,8 @@ header#intro {
             display: block;
             position: relative;
             box-shadow: none;
-            color: white;
-            text-shadow: 0 1px 2px black;
+            color: black;
+            text-shadow: 0 1px 2px white;
 
             .info {
                 position: absolute;
@@ -80,7 +90,8 @@ header#intro {
                 box-sizing: border-box;
                 align-items: center;
                 justify-content: center;
-                background-color: rgba(0,0,0, 0.85);
+                background-color: rgba(255,255,255, 0.9);
+                box-shadow: $box-shadow-trim inset;
                 opacity: 0;
                 line-height: 1.35;
                 transition: opacity $transition-duration;

@@ -6,17 +6,17 @@ layout: home
 
   <header id="intro">
     <div class="lead">
-      Hi, I’m <h1>Harrison Liddiard</h1>, a student at <h3><a href="http://ucla.edu" target="_blank">UCLA</a></h3>. I’ve been a software engineering intern at <h3><a href="http://www.nytimes.com" target="_blank">The New York Times</a></h3> and a fellow at <h3><a href="https://apply.hackny.org" target="_blank">hackNY</a></h3>. <nav>Take a look at my <h2><a href="/resume">resumé</a></h2> and <h2><a href="#projects">projects</a></h2>.</nav> You can also find me on <h4><a href="https://github.com/liddiard">GitHub</a></h4>, <h4><a href="https://linkedin.com/in/liddiard">LinkedIn</a></h4>, and <h4><a href="https://twitter.com/HLiddiard">Twitter</a></h4>.
+      Hi, I’m <h1>Harrison Liddiard</h1>, a student at <h3><a href="http://ucla.edu" target="_blank">UCLA</a></h3>. I’ve been a software engineering intern at <h3><a href="http://www.nytimes.com" target="_blank">The New York Times</a></h3> and a fellow at <h3><a href="https://apply.hackny.org" target="_blank">hackNY</a></h3>. <nav>Take a look at my <h2><a href="/resume">resumé</a></h2> and <h2><a href="#projects">projects</a></h2>.</nav> You can also find me on <h4><a href="https://github.com/{{ site.github_username }}">GitHub</a></h4>, <h4><a href="https://linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a></h4>, and <h4><a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a></h4>.
     </div>
 
-    <div class="more-about-me">
+    <div class="about-me">
       <img class="mug" src="/img/mug.jpg" title="This is me!" />
-      <h2>More about me</h2>
+      <h2>About me</h2>
       <p>I’m in my senior year studying computer science and linguistics. I enjoy learning languages and making web applications. I love thinking about meaningful problems and implementing great user experiences to solve them. I like to scuba dive, play piano, plan events, and occasionally ballroom dance.</p>
     </div>
   </header>
 
-  <h1 id="projects">Projects I’ve made</h1>
+  <h1 id="projects">Projects I’ve made or worked on</h1>
 
   <ul class="project-list">
     {% assign sorted_projects = site.projects | sort: 'order' | reverse %}

@@ -11,6 +11,7 @@ $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
+$heading-font-family: "Open Sans", Helvetica, sans-serif;
 
 $spacing-unit:     30px;
 
@@ -50,5 +51,8 @@ $on-laptop:        800px;
         "base",
         "layout",
         "syntax-highlighting",
-        "home" // custom
+        // custom imports
+        "home",
+        "project",
+        "resume"
 ;

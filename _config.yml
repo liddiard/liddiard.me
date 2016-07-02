@@ -8,17 +8,21 @@
 # Site settings
 title: Harrison Liddiard
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://harrisonliddiard.com" # the base hostname & protocol for your site
+url: "https://harrisonliddiard.com" # the base hostname & protocol for your site
 twitter_username: HLiddiard
 github_username:  liddiard
+linkedin_username: liddiard
 collections:
   projects:
     output: true
+    permalink: /project/:path/
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
 
 # Build settings
 markdown: kramdown
