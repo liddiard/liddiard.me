@@ -4,7 +4,8 @@ description: Interactive online text processing with Unix utilities
 order: 9
 involvement: creator
 skills: React, Flask, Bash, Sass, web development
-github: https://github.com/liddiard/stream-editor/
+github: liddiard/stream-editor
+num_images: 5
 ---
 
 When you need more powerful text manipulation than your text editor's find and replace provides, the go-to approach is tried-and-tested Unix utilities like sed, awk, grep. 

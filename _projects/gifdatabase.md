@@ -4,8 +4,9 @@ description: The internet’s finest animated GIF search
 order: 4
 involvement: creator
 skills: Django, PostgreSQL, image processing, user accounts, Amazon S3, caching, jQuery, web development
-link: http://gifdatabase.com/
-github: https://github.com/liddiard/gifdatabase
+link: http://gifdatabase.com
+github: liddiard/gifdatabase
+num_images: 4
 ---
 
 GIFdatabase is a community-driven animated GIF search. It provides a comprehensive GIF adding, tagging, voting, favoriting, and flagging system that encourages quality content and automatically restricts users who have low reputation.

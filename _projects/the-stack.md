@@ -2,10 +2,11 @@
 title: The Stack
 description: Data journalism and newsroom tech blog
 order: 12
-link: http://stack.dailybruin.com/
+link: http://stack.dailybruin.com
 involvement: editor, website creator
 skills: Jekyll, Sass, web development, data journalism
-github: https://github.com/daily-bruin/the-stack/
+github: daily-bruin/the-stack
+num_images: 6
 ---
 
 In Spring 2015, the Daily Bruin launched The Stack, a data journalism and newsroom tech blog intended to give developers in Daily Bruin's Online department a space to create and showcase their own work, experiment with data visualizations, and build newsroom tools.

@@ -4,8 +4,9 @@ description: Quarterly lifestyle magazine
 order: 2
 involvement: website creator
 skills: Django, PostgreSQL, parsing, content management, web development
-link: http://graphics.dailybruin.com/prime/
-github: https://github.com/daily-bruin/appletini/
+link: http://graphics.dailybruin.com/prime
+github: daily-bruin/appletini
+num_images: 5
 ---
 
 *prime* is a quarterly lifestyle magazine produced by the *Daily Bruin*. For the Fall 2013 issue, I wanted to create a website that would showcase the rich visual elements of the magazine and be expandable for future issues.

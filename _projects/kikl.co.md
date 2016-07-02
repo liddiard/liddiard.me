@@ -5,7 +5,8 @@ order: 5
 involvement: creator
 skills: Django, PostgreSQL, advanced SQL, rate limiting, user accounts, web development
 link: http://kikl.co
-github: https://github.com/liddiard/kikl
+github: liddiard/kikl
+num_images: 4
 ---
 
 Sometimes you just need to get a link from one place to another, and the most convenient method of transport is your memory. Links like `http://bit.ly/1loNbfX/` are short, but they're very impractical to remember.

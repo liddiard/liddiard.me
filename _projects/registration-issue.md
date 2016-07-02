@@ -4,8 +4,9 @@ description: Online features for the year’s largest issue
 order: 0
 involvement: website creator
 skills: web development
-link: http://dailybruin.com/registration-issue-2013/
-github: https://github.com/daily-bruin/regissue-2013/
+link: http://dailybruin.com/registration-issue-2013
+github: daily-bruin/regissue-2013
+num_images: 5
 ---
 
 For *Daily Bruin*'s inaugural issue of the academic year, I worked with the news, photo, arts & entertainment, and video sections of the paper to create several online features.

@@ -4,7 +4,8 @@ description: Official live updates for the UCLA Bruins’ Football Signing Day
 order: 8
 involvement: creator
 skills: Django, PostgreSQL, AngularJS, caching, Amazon S3, web development
-link: http://uclabruins.com/signingday/
+link: http://uclabruins.com/signingday
+num_images: 5
 ---
 
 Every year, UCLA Athletics hosts a central page for National Football Signing Day where it officially announces players as they sign with UCLA.
