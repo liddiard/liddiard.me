@@ -4,18 +4,33 @@ layout: home
 
 <div class="home">
 
-  <header id="intro" class="fullwidth">
-    Hi, I’m <h1>Harrison Liddiard</h1>, a student at <h2><a href="http://ucla.edu" target="_blank">UCLA</a></h2>. I’ve been a software engineering intern at <h2><a href="http://www.nytimes.com" target="_blank">The New York Times</a></h2> and a fellow at <h2><a href="https://apply.hackny.org">hackNY</a></h2>. Take a look at my <h2><a href="/resume">resumé</a></h2> and <h2><a href="#projects">projects</a></h2>. You can also find me on the web on <h3><a href="https://linkedin.com/in/liddiard">LinkedIn</a></h3>, <h3><a href="https://github.com/liddiard">GitHub</a></h3>, and <h3><a href="https://twitter.com/HLiddiard">Twitter</a></h3>.
+  <header id="intro">
+    <div class="lead">
+      Hi, I’m <h1>Harrison Liddiard</h1>, a student at <h3><a href="http://ucla.edu" target="_blank">UCLA</a></h3>. I’ve been a software engineering intern at <h3><a href="http://www.nytimes.com" target="_blank">The New York Times</a></h3> and a fellow at <h3><a href="https://apply.hackny.org" target="_blank">hackNY</a></h3>. <nav>Take a look at my <h2><a href="/resume">resumé</a></h2> and <h2><a href="#projects">projects</a></h2>.</nav> You can also find me on <h4><a href="https://github.com/liddiard">GitHub</a></h4>, <h4><a href="https://linkedin.com/in/liddiard">LinkedIn</a></h4>, and <h4><a href="https://twitter.com/HLiddiard">Twitter</a></h4>.
+    </div>
+
+    <div class="more-about-me">
+      <img class="mug" src="/img/mug.jpg" title="This is me!" />
+      <h2>More about me</h2>
+      <p>I’m in my senior year studying computer science and linguistics. I enjoy learning languages and making web applications. I love thinking about meaningful problems and implementing great user experiences to solve them. I like to scuba dive, play piano, plan events, and occasionally ballroom dance.</p>
+    </div>
   </header>
 
-  <h1 class="page-heading">Projects</h1>
+  <h1 id="projects">Projects I’ve made</h1>
 
   <ul class="project-list">
-    {% for project in site.projects %}
+    {% assign sorted_projects = site.projects | sort: 'order' | reverse %}
+    {% for project in sorted_projects %}
       <li>
-        <h2>
-          {{ project.title }}
-        </h2>
+        <a href="{{ project.url }}">
+          <img src="/img/projects/{{ project.slug }}/cover.png" />
+          <div class="info">
+            <span>
+              <h2>{{ project.title }}</h2>
+              <p>{{ project.description }}</p>
+            </span>
+          </div>
+        </a>
       </li>
     {% endfor %}
   </ul>
