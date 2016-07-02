@@ -14,7 +14,7 @@ permalink: /resume/
             <h3 class="position">Software Engineering Intern <span class="date">Summer 2016</span></h3>
             <h4 class="company">The New York Times</h4>
             <ul>
-                <li>Will be working on Scoop, The Times’s homegrown CMS software which handles story planning, version tracking, real-time collaboration, notifications, related content suggestion, integrated metrics, and more.</li>
+                <li>Working on Scoop, The Times’s homegrown CMS software which handles story planning, version tracking, real-time collaboration, notifications, related content suggestion, integrated metrics, and more.</li>
             </ul>
         </div>
         <div class="item">
