@@ -14,24 +14,24 @@ permalink: /resume/
             <h3 class="position">Software Engineering Intern <span class="date">Summer 2016</span></h3>
             <h4 class="company">The New York Times</h4>
             <ul>
-                <li>Working on Scoop, The Times’s homegrown CMS software which handles story planning, version tracking, real-time collaboration, notifications, related content suggestion, integrated metrics, and more.</li>
+                <li>Developing on the Times’s in-house content management software that its hundreds of journalists across the globe use to report, edit, and collaborate on stories.</li>
             </ul>
         </div>
         <div class="item">
             <h3 class="position">Software Engineering Intern, hackNY Fellow <span class="date">Summer 2015</span></h3>
             <h4 class="company">Offerpop, Inc.</h4>
             <ul>
-                <li>Full-stack developer at a social advertising startup. Created customizable UI components for campaign builder, added API functionality.</li>
-                <li>Worked with PMs, engineering director, and design director to analyze customer use and to plan and execute new UX designs.</li>
-                <li>Participated in the hackNY Fellows program which includes mentorship and a lecture series, hosted by faculty of Columbia and NYU.</li>
+                <li>Full-stack developer at a social marketing startup. Created customizable UI components for campaign page builder product.</li>
+                <li>Developed using React, Flask, MongoDB, and Django Rest Framework.</li>
+                <li>Accepted into the hackNY Fellows program of mentorship and lectures with prominent members of NYC tech community. Hosted by Columbia and NYU faculty.</li>
             </ul>
         </div>
         <div class="item">
             <h3 class="position">Web Developer &amp; Designer <span class="date">2014 – present</span></h3>
             <h4 class="company">UCLA Athletics</h4>
             <ul>
-                <li>Work with several departments to prioritize, design, and create custom pages for major athletic events.</li>
-                <li>Created tools to improve development workflow and established a style guide for the website.</li>
+                <li>Work with several departments to prioritize, design, and code custom pages for major athletic events.</li>
+                <li>Create internal applications to improve development workflow and established a style guide for the website.</li>
                 <li>Worked with the uclabruins.com website vendor to coordinate a full site redesign.</li>
             </ul>
         </div>
@@ -39,7 +39,7 @@ permalink: /resume/
             <h3 class="position">Digital Managing Editor <span class="date">2014 – 2015</span></h3>
             <h4 class="company">Daily Bruin</h4>
             <ul>
-                <li>Managed the online, video, radio, and blogging departments of <em>The Bruin</em>, comprising a total of 80 people.</li>
+                <li>Managed the online, video, radio, and blogging departments of the university newspaper, comprising a total of 80 people.</li>
                 <li>Coordinated interdepartmental breaking news coverage and collaboration on features.</li>
             </ul>
         </div>
@@ -49,7 +49,7 @@ permalink: /resume/
             <ul>
                 <li>Managed a department of 30 web developers.</li>
                 <li>Interviewed and hired applicants, organized and helped project teams.</li>
-                <li>Taught developers how to work with development tools. (Git, Django, WordPress, etc.)</li>
+                <li>Taught developers how to work with development tools including version control and JavaScript frameworks.</li>
             <ul>
         </ul></ul></div>
     </section>
