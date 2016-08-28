@@ -81,6 +81,10 @@ header#intro {
             color: black;
             text-shadow: 0 1px 2px white;
 
+            img {
+                max-height: 250px;
+            }
+
             .info {
                 position: absolute;
                 display: flex;
