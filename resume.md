@@ -14,24 +14,26 @@ permalink: /resume/
             <h3 class="position">Software Engineering Intern <span class="date">Summer 2016</span></h3>
             <h4 class="company">The New York Times</h4>
             <ul>
-                <li>Developing on the Times’s in-house content management software that its hundreds of journalists across the globe use to report, edit, and collaborate on stories.</li>
+                <li>Reimplemented CMS search with Elasticsearch for 10x performance gain.</li>
+                <li>Rewrote Backbone frontend with reduced search form complexity, instant feedback, results optimized for quick scanning.</li>
+                <li>Built beginnings of a story status console in React.</li>
             </ul>
         </div>
         <div class="item">
             <h3 class="position">Software Engineering Intern, hackNY Fellow <span class="date">Summer 2015</span></h3>
             <h4 class="company">Offerpop, Inc.</h4>
             <ul>
-                <li>Full-stack developer at a social marketing startup. Created customizable UI components for campaign page builder product.</li>
-                <li>Developed using React, Flask, MongoDB, and Django Rest Framework.</li>
-                <li>Accepted into the hackNY Fellows program of mentorship and lectures with prominent members of NYC tech community. Hosted by Columbia and NYU faculty.</li>
+                <li>Created customizable UI components for campaign page builder.</li>
+                <li>Developed full stack using React, Django, Flask, MongoDB.</li>
+                <li>Accepted into hackNY Fellows program of mentorship and lectures with founders, civic leaders, Columbia and NYU faculty.</li>
             </ul>
         </div>
         <div class="item">
             <h3 class="position">Web Developer &amp; Designer <span class="date">2014 – present</span></h3>
             <h4 class="company">UCLA Athletics</h4>
             <ul>
-                <li>Work with several departments to prioritize, design, and code custom pages for major athletic events.</li>
-                <li>Create internal applications to improve development workflow and established a style guide for the website.</li>
+                <li>Worked with several departments to prioritize, design, and code custom pages for major athletic events.</li>
+                <li>Created internal applications to improve development workflow, established a style guide for the website.</li>
                 <li>Worked with the uclabruins.com website vendor to coordinate a full site redesign.</li>
             </ul>
         </div>
@@ -39,17 +41,16 @@ permalink: /resume/
             <h3 class="position">Digital Managing Editor <span class="date">2014 – 2015</span></h3>
             <h4 class="company">Daily Bruin</h4>
             <ul>
-                <li>Managed the online, video, radio, and blogging departments of the university newspaper, comprising a total of 80 people.</li>
-                <li>Coordinated interdepartmental breaking news coverage and collaboration on features.</li>
+                <li>Managed the 80 people in online, video, radio, and blogging departments of the university newspaper.</li>
+                <li>Coordinated interdepartmental breaking news coverage and collaboration on feature stories.</li>
             </ul>
         </div>
         <div class="item">
             <h3 class="position">Head of Web Development <span class="date">2013 – 2014</span></h3>
             <h4 class="company">Daily Bruin</h4>
             <ul>
-                <li>Managed a department of 30 web developers.</li>
-                <li>Interviewed and hired applicants, organized and helped project teams.</li>
-                <li>Taught developers how to work with development tools including version control and JavaScript frameworks.</li>
+                <li>Managed a department of 30 developers in project teams, interviewed and hired applicants. Ran meetings, planned socials.</li>
+                <li>Taught developers skills incl. Git, Linux, JavaScript, Django.</li>
             <ul>
         </ul></ul></div>
     </section>
@@ -64,13 +65,13 @@ permalink: /resume/
             <h4><span class="project-name">typeemoji.com</span> real-time emoji search with tags by relevance. React and ES6.</h4>
             <h4><span class="project-name">Stream Editor</span> interactive Unix text manipulation commands online. Bash, Flask, React.</h4>
             <h4><span class="project-name">monitor404.com</span> HTTP 404 error monitoring as a service. Django, Celery, Stripe, SSL.</h4>
-            <h4><span class="project-name">kikl.co</span> shorten links with easy-to-remember URLs. Django, PostgreSQL, jQuery.</h4>
+            <h4><span class="project-name">kikl.co</span> shorten links with easy-to-remember URLs. Django, PostgreSQL.</h4>
         </div>
         <h2>Technical Skills</h2>
         <div class="item">
-            <h4>HTML, CSS, Sass</h4>
             <h4>JavaScript, React, Node.js</h4>
             <h4>Python, Django, Flask</h4>
+            <h4>HTML, CSS, Sass</h4>
             <h4>C++</h4>
             <h4>SQL and NoSQL databases</h4>
             <h4>Git, Bash</h4>
