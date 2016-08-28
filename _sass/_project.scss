@@ -1,25 +1,29 @@
 $article-width: 33%;
+$article-padding-right: 2em;
 
 article.project {
   width: $article-width;
   float: left;
-  box-sizing: border-box;
-  padding-right: 2em;
+  padding-right: $article-padding-right;
 
   @include media-query($on-laptop) {
     width: 100%;
     float: none;
   }
+
+  .project-content {
+    font-size: 1.2em;
+    line-height: 1.6;
+  }
 }
 
 aside.project-media {
-  width: 100% - $article-width;
+  width: calc(#{100% - $article-width} - #{$article-padding-right});
   float: left;
-  box-shadow: 0 0 0 1px $grey-color-light, 0 15px 40px rgba(0,0,0, 0.2);
-  margin-top: 1em;
 
-  a {
-    box-shadow: none;
+  img {
+    margin: 1em 0;
+    box-shadow: 0 0 0 1px $grey-color-light, 0 5px 20px rgba(0,0,0, 0.2);
   }
 
   @include media-query($on-laptop) {
