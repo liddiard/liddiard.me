@@ -34,7 +34,7 @@ permalink: /resume/
             <ul>
                 <li>Worked with several departments to prioritize, design, and code custom pages for major athletic events.</li>
                 <li>Created internal applications to improve development workflow, established a style guide for the website.</li>
-                <li>Worked with website provider to coordinate a full site redesign.</li>
+                <li>Worked with website provider to coordinate full site redesign.</li>
             </ul>
         </div>
         <div class="item">
@@ -49,11 +49,11 @@ permalink: /resume/
             <h3 class="position">Head of Web Development <span class="date">2013 – 2014</span></h3>
             <h4 class="company">Daily Bruin</h4>
             <ul>
-                <li>Managed a department of 30 developers in project teams.
-                <li>Interviewed and hired applicants, ran meetings, planned socials.</li>
+                <li>Managed a department of 30 developers in project teams.</li>
+                <li>Interviewed and hired applicants. Ran meetings, planned socials.</li>
                 <li>Taught developers skills incl. Git, Linux, JavaScript, Django.</li>
-            <ul>
-        </ul></ul></div>
+            </ul>
+        </div>
     </section>
     <section class="col right">
         <h2>Education</h2>
