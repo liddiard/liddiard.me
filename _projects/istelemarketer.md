@@ -4,7 +4,7 @@ description: Should you pick up the phone?
 order: 3
 involvement: creator
 skills: Django, data scraping, unit testing, web development
-link: http://istelemarketer.herokuapp.com
+link: http://istelemarketer.harrisonliddiard.com
 github: liddiard/istelemarketer
 num_images: 3
 ---
