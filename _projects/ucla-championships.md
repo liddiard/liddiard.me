@@ -2,6 +2,7 @@
 title: UCLA Bruins championships showcase
 description: "Explore the Bruins’ history as the #1 winner of NCAA championships"
 order: 13
+link: http://ucla.in/2dfbYok
 involvement: creator
 skills: React, ES6, Sass, web development
 num_images: 0
