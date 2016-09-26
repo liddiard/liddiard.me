@@ -21,7 +21,7 @@ aside.project-media {
   width: calc(#{100% - $article-width} - #{$article-padding-right});
   float: left;
 
-  img {
+  img, video {
     margin: 1em 0;
     box-shadow: 0 0 0 1px $grey-color-light, 0 5px 20px rgba(0,0,0, 0.2);
   }
