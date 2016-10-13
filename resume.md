@@ -4,7 +4,7 @@ title: Resumé
 permalink: /resume/
 ---
 
-<link href="http://fonts.googleapis.com/css?family=Oxygen:400,700" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Oxygen:400,700" rel="stylesheet" type="text/css">
 
 <section id="resume">
     <div class="print" onclick="window.print()">Print <img src="http://harrisonliddiard.s3.amazonaws.com/static/img/print.png"></div>
