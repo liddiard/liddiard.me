@@ -7,7 +7,7 @@ permalink: /resume/
 <link href="https://fonts.googleapis.com/css?family=Oxygen:400,700" rel="stylesheet" type="text/css">
 
 <section id="resume">
-    <div class="print" onclick="window.print()">Print <img src="http://harrisonliddiard.s3.amazonaws.com/static/img/print.png"></div>
+    <div class="print" onclick="window.print()">Print <img src="/img/print.png"></div>
     <section class="col left">
         <h2>Work Experience</h2>
         <div class="item">
