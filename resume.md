@@ -63,7 +63,7 @@ permalink: /resume/
         </div>
         <h2>Projects</h2>
         <div class="item">
-            <h4><span class="project-name">MailPDF.online</span> mail a document under 60 sec. UX design, React, ES6, Node.js.</h4>
+            <h4><span class="project-name">MailPDF.online</span> mail a document in under 60 sec. UX design, React, ES6, Node.js.</h4>
             <h4><span class="project-name">typeemoji.com</span> real-time emoji search with tags by relevance. React and ES6.</h4>
             <h4><span class="project-name">Stream Editor</span> interactive Unix text manipulation commands online. Bash, Flask, React.</h4>
             <h4><span class="project-name">kikl.co</span> shorten links with easy-to-remember URLs. Django, PostgreSQL.</h4>
