@@ -14,4 +14,4 @@ Mail a PDF Online lets you do exactly what is says with a simple one-page interf
 
 The interface is designed to be fast, self explanatory, and error tolerant. It provides concise information, instant feedback when appropriate, and fully up-front pricing.
 
-This React and Node.js + Express application is deployed in a Docker container on [DigitalOcean](https://digitalocean.com/). All assets are compressed and distributed through [Cloudflare](https://cloudflare.com/) for quick access at any connection speed. [Let's Encrypt](https://letsencrypt.com/) and Cloudflare provide SSL.
+This React and Node.js + Express application is deployed in a Docker container on [DigitalOcean](https://digitalocean.com/). All assets are compressed and distributed through [Cloudflare](https://cloudflare.com/) for quick access at any connection speed. [Let's Encrypt](https://letsencrypt.org/) and Cloudflare provide SSL.
