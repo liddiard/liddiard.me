@@ -5,7 +5,6 @@ order: 13
 link: http://uclabruins.com/championships
 involvement: creator
 skills: React, ES6, Sass, web development
-num_images: 0
 num_videos: 1
 ---
 

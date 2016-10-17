@@ -51,7 +51,7 @@ permalink: /resume/
             <ul>
                 <li>Managed a department of 30 developers in project teams.</li>
                 <li>Interviewed and hired applicants. Ran meetings, planned socials.</li>
-                <li>Taught developers skills incl. Git, Linux, JavaScript, Django.</li>
+                <li>Taught developers skills incl. Git, JavaScript, Django, server admin.</li>
             </ul>
         </div>
     </section>
