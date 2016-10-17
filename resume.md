@@ -70,7 +70,7 @@ permalink: /resume/
         </div>
         <h2>Technical Skills</h2>
         <div class="item">
-            <h4>JavaScript, React, Node.js</h4>
+            <h4>JavaScript (ES6), React, Node.js</h4>
             <h4>Python, Django, Flask</h4>
             <h4>HTML, CSS, Sass</h4>
             <h4>C++</h4>
