@@ -1,6 +1,6 @@
 ---
 title: The New York Times CMS dashboard search
-description: Implementing faster, more accurate resource location with Elasticsearch
+description: Fast and accurate resource location with Elasticsearch
 order: 15
 involvement: developer
 skills: Backbone, Marionette, Elasticsearch, React, Java
