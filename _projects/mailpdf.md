@@ -2,7 +2,7 @@
 title: Mail a PDF Online
 description: Mail a document to anywhere in the U.S. under 60 seconds
 order: 14
-link: https://mailpdf.online
+link: https://mailpdf.online/?demo
 involvement: creator
 skills: Node.js, Express, React, ES6, Sass, UX design
 num_videos: 1
