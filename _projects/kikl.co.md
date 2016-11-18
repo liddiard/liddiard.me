@@ -1,7 +1,7 @@
 ---
 title: kikl.co
 description: Tiny, short-lived, memorable URLs
-order: 5
+order: 7
 involvement: creator
 skills: Django, PostgreSQL, advanced SQL, rate limiting, user accounts, web development
 link: http://kikl.co
