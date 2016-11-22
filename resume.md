@@ -14,9 +14,9 @@ permalink: /resume/
             <h3 class="position">Software Engineering Intern <span class="date">Summer 2016</span></h3>
             <h4 class="company">The New York Times</h4>
             <ul>
-                <li>Reimplemented CMS search with Elasticsearch for 10x speed gain.</li>
-                <li>Rewrote Backbone frontend with reduced search form complexity, instant feedback, results optimized for quick scanning.</li>
-                <li>Built beginnings of a story status console in React.</li>
+                <li>Increased CMS search speed 10x by implementing Elasticsearch.</li>
+                <li>Rewrote search frontend with reduced UI complexity, instant feedback, results formatted for quick location.</li>
+                <li>Built beginning of a story workflow status console in React.</li>
             </ul>
         </div>
         <div class="item">
