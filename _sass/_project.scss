@@ -21,10 +21,19 @@ aside.project-media {
   width: calc(#{100% - $article-width} - #{$article-padding-right});
   float: left;
 
-  img, video {
+  figure {
     margin: 1em 0;
-    box-shadow: 0 0 0 1px $grey-color-light, 0 5px 20px rgba(0,0,0, 0.2);
-    max-width: 100%;
+
+    img, video {
+      display: block;
+      margin: 0.5em 0;
+      box-shadow: 0 0 0 1px $grey-color-light, 0 5px 20px rgba(0,0,0, 0.2);
+      max-width: 100%;
+    }
+
+    figcaption {
+      color: $grey-color-dark;
+    }
   }
 
   @include media-query($on-laptop) {

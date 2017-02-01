@@ -1,12 +1,20 @@
 ---
 title: TypeEmoji
 description: The no-nonsense emoji search keyboard
-order: 11
+order: 8
 link: http://typeemoji.com
 involvement: creator
 skills: React, ECMAScript 6, Sass, Amazon S3
 github: liddiard/type-emoji
-num_images: 4
+media:
+  - type: image
+    filename: 1.png
+  - type: image
+    filename: 2.png
+  - type: image
+    filename: 3.png
+  - type: image
+    filename: 4.png
 ---
 
 Unicode emoji are all the rage these days – they're great for adding expression and flair to an online conversation, and they're supported almost everywhere. The hardest part of using them is finding the right one.

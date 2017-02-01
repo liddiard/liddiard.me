@@ -1,19 +1,34 @@
 ---
-title: Signing Day 2015
+title: Signing Day
 description: Official live updates for the UCLA Bruins’ Football Signing Day
-order: 8
+order: 12
 involvement: creator
-skills: Django, PostgreSQL, AngularJS, caching, Amazon S3, web development
+skills: Django, PostgreSQL, Memcached, React, Sass
 link: http://uclabruins.com/signingday
-num_images: 5
+media:
+  - type: image
+    filename: players_wide.png
+  - type: image
+    filename: video_player.png
+  - type: image
+    filename: card_detail.png
+    caption: Card detail.
+  - type: video
+    filename: card_flip.mp4
+    caption: "UI affordances for card flip: subtle card rotation and drop shadow, changed cursor, tooltip."
+  - type: image
+    filename: admin_top.png
+    caption: Admin interface for adding and managing signees.
+  - type: image
+    filename: admin_bottom.png
 ---
 
-Every year, UCLA Athletics hosts a central page for National Football Signing Day where it officially announces players as they sign with UCLA.
+UCLA Athletics hosts a page for Football's National Signing Day where it officially announces new players as they sign with UCLA each year. Previous years' pages involved a cumbersome process of manually editing HTML and re-saving the page after each recruit's announcement. This method was was time consuming and error prone.
 
-Previous years' pages involved a cumbersome process of manually editing HTML and re-saving the page after each recruit's announcement. This method was was both time consuming and error prone.
-
-For the UCLA's 2015 National Signing Day page, I proposed and implemented a more elegant system: an admin interface where information about players who were likely to sign could be pre-filled by the Athletic Communications department accessible via an API. A player could be announced as signed simply by checking a checkbox, and the signing day page itself, which used an AngularJS app, pulled from the API in real time.
+For the UCLA's 2015, 2016, and 2017 National Signing Day pages, I proposed and implemented a more user-friendly system involving a Django web application with an admin interface and an API. The Athletic Communications department could pre-fill information about players who were likely to sign and announce a signing by simply clicking a checkbox. The front-end was a React app that pulled from the API in real time.
 
 Anticipating a huge volume of traffic, I chose to deploy the backend application on a scalable Heroku dyno, implemented caching with Memcached, and did load testing with Load Impact. The API server held up to the high demand of hundreds of requests per second throughout the day.
 
-After Signing Day, I "flattened" the page and spun down the API server to remove the page's external dependencies, making it more maintainable for the future.
+For the UI, I put extra emphasis on affordances make the page's functions intuitive. The video player played a muted, looped clip to give the user an idea of what they would get if they chose to play the video, along with a prominent "watch" button centered over the screen. I added a loudspeaker icon here to make it obvious that playing the video would involve sound, because no one likes to be surprised by unexpected noises from a web page.
+
+The list of signed players used cards with a front and a back. The front contained the most important information and the back contained a biography and additional stats. Because a two-sided card isn't a typical UI paradigm on the web, I added several clues to make this feature clear. On desktop, hovering over the card causes it to "lift up" with a drop shadow and rotate slightly to indicate it can be flipped, along with a tooltip that explains the feature explicity. On desktop and mobile, an "About" button also sticks out with a yellow secondary color and a rotation symbol to indicate it will flip the card.

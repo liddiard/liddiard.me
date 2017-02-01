@@ -5,7 +5,10 @@ order: 14
 link: https://mailpdf.online/?demo
 involvement: creator
 skills: Node.js, Express, React, ES6, Sass, UX design
-num_videos: 1
+media:
+  - type: video
+    filename: 1.mp4
+    caption: Mailing a PDF document in under 60 seconds (despite my slow typing).
 ---
 
 Mailing a PDF document is not a quick task for anyone who doesn't have easy access to a post office or a printer. And of course you'll also need an envelope and stamps, or else you'll need to stand in line at the post office to pay. All this even if you're trying to get an ultimately electronic document from point A to B.

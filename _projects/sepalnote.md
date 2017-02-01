@@ -1,12 +1,20 @@
 ---
 title: Sepalnote
 description: Hierarchical note-taking for the web (under development)
-order: 5
+order: 6
 involvement: creator
 skills: Django, PostgreSQL, AngularJS, vanilla JS, user accounts, web development
 link: http://www.sepalnote.com
 github: liddiard/sepalnote
-num_images: 4
+media:
+  - type: image
+    filename: 1.png
+  - type: image
+    filename: 2.png
+  - type: image
+    filename: 3.png
+  - type: image
+    filename: 4.png
 ---
 
 After trying tens of todo list apps, I finally landed on [Workflowy](https://workflowy.com). It has two standout features: its UI is incredibly simple to use, and it lets you organize your tasks in a hierarchy of your own design.

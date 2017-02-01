@@ -4,7 +4,16 @@ description: Fast and accurate resource location with Elasticsearch
 order: 15
 involvement: developer
 skills: Backbone, Marionette, Elasticsearch, React, Java
-num_images: 4
+media:
+  - type: image
+    filename: 1.png
+    caption: Immediately after clicking on the search bar, example searches appear below – one every few seconds.
+  - type: image
+    filename: 2.png
+  - type: image
+    filename: 3.png
+  - type: image
+    filename: 4.png
 ---
 
 During my summer 2016 internship at The New York Times, I worked as a developer on the CMS team. I reimplemented the main dashboard search of the CMS, a feature used hundreds of times per day by journalists to find specific pieces of content like articles, images, and videos.

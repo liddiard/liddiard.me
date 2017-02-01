@@ -30,10 +30,22 @@ layout: default
 </article>
 
 <aside class="project-media">
-  {% for i in (1..page.num_videos) %}
-    <video src="/video/projects/{{ page.slug }}/{{ i }}.mp4" autoPlay muted loop />
-  {% endfor %}
-  {% for i in (1..page.num_images) %}
-    <img src="/img/projects/{{ page.slug }}/{{ i }}.png" />
+  {% for media in page.media %}
+    {% case media.type %}
+      {% when 'image' %}
+        <figure>
+          <img src="/media/{{ page.slug }}/{{ media.filename }}" />
+          {% if media.caption %}
+            <figcaption>{{ media.caption }}</figcaption>
+          {% endif %}
+        </figure>
+      {% when 'video' %}
+        <figure>
+          <video src="/media/{{ page.slug }}/{{ media.filename }}" autoplay muted loop></video>
+          {% if media.caption %}
+            <figcaption>{{ media.caption }}</figcaption>
+          {% endif %}
+        </figure>
+    {% endcase %}
   {% endfor %}
 </aside>

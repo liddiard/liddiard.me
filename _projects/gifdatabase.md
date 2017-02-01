@@ -6,7 +6,15 @@ involvement: creator
 skills: Django, PostgreSQL, image processing, user accounts, Amazon S3, caching, jQuery, web development
 link: http://gifdatabase.com
 github: liddiard/gifdatabase
-num_images: 4
+media:
+  - type: image
+    filename: 1.png
+  - type: image
+    filename: 2.png
+  - type: image
+    filename: 3.png
+  - type: image
+    filename: 4.png
 ---
 
 GIFdatabase is a community-driven animated GIF search. It provides a comprehensive GIF adding, tagging, voting, favoriting, and flagging system that encourages quality content and automatically restricts users who have low reputation.

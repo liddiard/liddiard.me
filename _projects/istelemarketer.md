@@ -1,12 +1,18 @@
 ---
 title: istelemarketer
 description: Should you pick up the phone?
-order: 3
+order: 5
 involvement: creator
 skills: Django, data scraping, unit testing, web development
 link: http://istelemarketer.harrisonliddiard.com
 github: liddiard/istelemarketer
-num_images: 3
+media:
+  - type: image
+    filename: 1.png
+  - type: image
+    filename: 2.png
+  - type: image
+    filename: 3.png
 ---
 
 Telemarketers are annoying. Equally annoying is seeing an unknown number appear on your phone and not having the time to determine via web search whether or not the caller was a telemarketer.

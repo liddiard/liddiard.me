@@ -24,8 +24,6 @@ defaults:
       type: projects
     values:
       layout: project
-      num_images: 0
-      num_videos: 0
 
 # Build settings
 markdown: kramdown

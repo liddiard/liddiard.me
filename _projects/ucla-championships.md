@@ -1,11 +1,14 @@
 ---
 title: UCLA Bruins championships showcase
 description: "Explore the Bruins’ history as the #1 winner of NCAA championships"
-order: 13
+order: 11
 link: http://uclabruins.com/championships
 involvement: creator
 skills: React, ES6, Sass, UI design
-num_videos: 1
+media:
+  - type: video
+    filename: 1.mp4
+    caption: "Navigation demo: filtering by year, by sport, or both."
 ---
 
 The UCLA Bruins have a rich history as the #1 winner of NCAA championships, holding the most NCAA titles of any university. Working as a web developer at UCLA Athletics, I set out to design an interactive page for exploring these over 100 titles that accommodates several use cases while remaining intuitive to navigate.

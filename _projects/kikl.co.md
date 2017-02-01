@@ -1,12 +1,20 @@
 ---
 title: kikl.co
 description: Tiny, short-lived, memorable URLs
-order: 7
+order: 13
 involvement: creator
 skills: Django, PostgreSQL, advanced SQL, rate limiting, user accounts, web development
 link: http://kikl.co
 github: liddiard/kikl
-num_images: 4
+media:
+  - type: image
+    filename: front.png
+  - type: image
+    filename: link_added.png
+  - type: image
+    filename: link_time.png
+  - type: image
+    filename: multiple_links_time.png
 ---
 
 Sometimes you just need to get a link from one place to another, and the most convenient method of transport is your memory. Links like `http://bit.ly/1loNbfX/` are short, but they're very impractical to remember.

@@ -1,12 +1,20 @@
 ---
 title: monitor404
 description: Simple 404 error monitoring for your website
-order: 6
+order: 7
 involvement: creator
 skills: Django, PostgreSQL, distributed task queueing, payment processing, cron, user accounts, SSL, web development
 link: https://monitor404.com
 github: liddiard/monitor404
-num_images: 4
+media:
+  - type: image
+    filename: 1.png
+  - type: image
+    filename: 2.png
+  - type: image
+    filename: 3.png
+  - type: image
+    filename: 4.png
 ---
 
 Monitoring HTTP 404 errors is a critical part of most content-based websites. Unfortunately, configuring logging and notification for these errors is not always straightforward. Configurations are backend-dependent, which means the setup process is different for WordPress, Rails, Node.js, etc.

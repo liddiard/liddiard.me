@@ -1,12 +1,22 @@
 ---
 title: Daily Bruin Registration Issue 2013
 description: Online features for the year’s largest issue
-order: 0
+order: 1
 involvement: website creator
 skills: web development
 link: http://dailybruin.com/registration-issue-2013
 github: daily-bruin/regissue-2013
-num_images: 5
+media:
+  - type: image
+    filename: 1.png
+  - type: image
+    filename: 2.png
+  - type: image
+    filename: 3.png
+  - type: image
+    filename: 4.png
+  - type: image
+    filename: 5.png
 ---
 
 For *Daily Bruin*'s inaugural issue of the academic year, I worked with the news, photo, arts & entertainment, and video sections of the paper to create several online features.

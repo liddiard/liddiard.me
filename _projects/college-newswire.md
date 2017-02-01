@@ -1,12 +1,16 @@
 ---
 title: College Newswire
 description: Content aggregation for university newspapers
-order: 1
+order: 2
 involvement: creator
 skills: vanilla JS, RSS, web development
 link: http://wire.dailybruin.com
 github: daily-bruin/newswire
-num_images: 2
+media:
+  - type: image
+    filename: 1.png
+  - type: image
+    filename: 2.png
 ---
 
 In late 2013, *Daily Bruin* spearheaded a partnership with other collegiate newspapers to share content among the participating organizations.
