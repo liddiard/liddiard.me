@@ -59,7 +59,12 @@ aside.project-media {
     margin: 0.5em 0;
   }
 
-  .link {
-    font-size: 1.5em;
+  .project-link {
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    a {
+      font-size: 1.5em;
+    }
   }
 }
