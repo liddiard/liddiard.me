@@ -1,5 +1,5 @@
 ---
-title: Signing Day
+title: UCLA Bruins Signing Day
 description: Official live updates for the UCLA Bruins’ Football Signing Day
 order: 12
 involvement: creator
