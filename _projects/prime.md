@@ -16,7 +16,7 @@ media:
   - type: image
     filename: 4.png
   - type: image
-    filename: 4.png
+    filename: 5.png
 ---
 
 *prime* is a quarterly lifestyle magazine produced by the *Daily Bruin*. For the Fall 2013 issue, I wanted to create a website that would showcase the rich visual elements of the magazine and be expandable for future issues.
