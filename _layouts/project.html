@@ -6,11 +6,13 @@ layout: default
   <header class="project-header">
     <h1>{{ page.title }}</h1>
     <h2>{{ page.description }}</h2>
-    <p>🔗 
-      <a class="link" href="{{ page.link }}" target="_blank">
-        {{ page.link }}
-      </a>
-    </p>
+    {% if page.link %}
+      <p>🔗 
+        <a class="link" href="{{ page.link }}" target="_blank">
+          {{ page.link }}
+        </a>
+      </p>
+    {% endif %}
     <p><strong>👥 Involvement:</strong> {{ page.involvement }}</p>
     <p><strong>💡 Skills:</strong> {{ page.skills }}</p>
     {% if page.github %}
