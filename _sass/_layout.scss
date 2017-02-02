@@ -9,6 +9,10 @@
     // Positioning context for the mobile navigation icon
     position: relative;
 
+    @include media-query($on-palm) {
+        padding: $spacing-unit / 2;
+    }
+
     @media print {
         display: none;
     }
@@ -126,6 +130,10 @@
 .page-content {
     padding: $spacing-unit;
     overflow: hidden;
+
+    @include media-query($on-palm) {
+        padding: $spacing-unit / 2;
+    }
 
     @media print {
         padding: 0;

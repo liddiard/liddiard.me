@@ -41,7 +41,7 @@ layout: default
         </figure>
       {% when 'video' %}
         <figure>
-          <video src="/media/{{ page.slug }}/{{ media.filename }}" autoplay muted loop></video>
+          <video src="/media/{{ page.slug }}/{{ media.filename }}" autoplay muted loop playsinline></video>
           {% if media.caption %}
             <figcaption>{{ media.caption }}</figcaption>
           {% endif %}
