@@ -3,7 +3,7 @@ title: kikl.co
 description: Tiny, short-lived, memorable URLs
 order: 13
 involvement: creator
-skills: Django, PostgreSQL, SQL queries, rate limiting, user accounts, web development
+skills: Django, PostgreSQL, SQL queries, rate limiting, user accounts
 link: http://kikl.co
 github: liddiard/kikl
 media:
