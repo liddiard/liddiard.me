@@ -20,8 +20,8 @@ The use cases I identified, in order of priority, are:
 4. Locating information about a specific championship
 3. Browsing championships in a specific year
 
-In order to accommodate all of these use cases cleanly, I came up with a two-part radio button navigation that offers a year filter and a sport filter. Both filters are initially set to "All Years" and "All Sports," respectively, so that all championships are displayed by default. I decided to display championships in reverse chronological order because people are more likely to be interested in a championship that happened last year than say, one that happened in 1950.
+In order to accommodate all of these use cases cleanly, I came up with a two-part radio button navigation that offers a year filter and a sport filter. Both filters are initially set to "All Years" and "All Sports," respectively, so that all championships are displayed by default.
 
-Take a look at the accompanying video to see how the navigation filtering makes it easy to filter either by year or by sport, or to quickly locate a specific championship.
+Clicking a year filters the list and highlights all sports in which UCLA won a championships that year, and vice versa for clicking a sport. Take a look at the accompanying video for a better visual explanation of how the navigation makes it easy to filter either by year or by sport, or to quickly locate a specific championship.
 
-I built the web page with React because it offers a nice minimal framework for a small page like this while handling the manipulation of potentially hundreds of DOM elements with ease. Championship data is pulled from a Google Sheet for easy updating by non-technical internal users.
+I built the web page with React because it offers a nice minimal framework for a small page like this while handling the manipulation of hundreds of DOM elements with ease. Championship data is pulled from a Google Sheet for easy updating by non-technical staff.
