@@ -13,7 +13,7 @@ media:
 
 Mailing a PDF document is not a quick task for anyone who doesn't have easy access to a post office or a printer. And of course you'll also need an envelope and stamps, or else you'll need to stand in line at the post office to pay. All this even if you're trying to get an ultimately electronic document from point A to B.
 
-Mail a PDF Online lets you do exactly what is says with a simple one-page interface, leveraging the [Lob](https://lob.com/) and [Stripe](https://stripe.com/) APIs for shipment and payment. Upload a PDF – we resize it to letter dimensions if necessary – and enter your "from" and "to" addresses – we validate them in case you make a mistake. Choose shipping options and pay, all under 60 seconds. Take a look at the accompanying video.
+Mail a PDF Online lets you do exactly what it says with a simple one-page interface, leveraging the [Lob](https://lob.com/) and [Stripe](https://stripe.com/) APIs for shipment and payment. Upload a PDF – we resize it to letter dimensions if necessary – and enter your "from" and "to" addresses – we validate them in case you make a mistake. Choose shipping options and pay, all under 60 seconds. Take a look at the accompanying video.
 
 The interface is designed to be fast, self explanatory, and error tolerant. It provides concise information, instant feedback when appropriate, and upfront pricing.
 
