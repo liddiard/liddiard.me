@@ -25,4 +25,4 @@ I created TypeEmoji to make it easier to find the emoji you want quickly. It's a
 
 I obtained the emoji data by parsing the [official emoji page from unicode.org](http://unicode.org/emoji/charts/full-emoji-list.html) with [cheerio](https://github.com/cheeriojs/cheerio) on Node.js.
 
-Despite its simple interface, this application has some subtle features that make it work well, like only performing a search if there is significant duration between keystrokes to improve browser responsiveness, auto-selection of emoji on hover for copying, a visual highlight to confirm an emoji was copied to clipboard, and keystroke interception to ensure that typing always goes in the search input.
+Despite its simple interface, this application has some subtle features that make it work well, like only performing a search if there is significant duration between keystrokes to improve browser responsiveness, auto-selection of emoji on hover for copying, a highlight to confirm an emoji was copied to clipboard, and keystroke interception to ensure that typing always goes in the search input.
