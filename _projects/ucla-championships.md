@@ -11,7 +11,7 @@ media:
     caption: "Navigation demo: filtering by year, by sport, or by both."
 ---
 
-The UCLA Bruins have a rich history as the #1 winner of NCAA championships, holding the most NCAA titles of any university. Working as a web developer at UCLA Athletics, I set out to design an interactive page for exploring these over 100 titles that accommodates several use cases while remaining intuitive to navigate.
+The UCLA Bruins have a rich athletic history, holding the most NCAA titles of any university. Working as a web developer at UCLA Athletics, I set out to design an interactive page for exploring these over 100 titles that accommodates several use cases while remaining intuitive to navigate.
 
 The use cases I identified, in order of priority, are:
 
