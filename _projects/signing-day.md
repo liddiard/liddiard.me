@@ -31,4 +31,4 @@ Anticipating a huge volume of traffic, I chose to deploy the backend application
 
 For the UI, I put extra emphasis on affordances make the page's functions intuitive. The list of signed players used cards with a front and a back. The front contained the most important information and the back contained a biography and additional stats. Because a two-sided card isn't a typical UI paradigm on the web, I added several clues to make this feature clear. 
 
-On desktop, hovering over the card causes it to "lift up" with a drop shadow and rotate slightly to indicate it can be flipped, along with a tooltip that explains the feature explicity. On desktop and mobile, an "About" button also sticks out with a yellow secondary color and a rotation symbol to indicate it will flip the card.
+On desktop, hovering over the card causes it to "lift up" with a drop shadow and slight rotation to indicate it can be flipped, along with a tooltip that explains the feature explicity. On desktop and mobile, an "About" button also sticks out with a yellow secondary color and a rotation symbol to indicate it will flip the card.
