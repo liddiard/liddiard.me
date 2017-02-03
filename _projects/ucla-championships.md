@@ -8,7 +8,7 @@ skills: React, ES6, Sass, UI design
 media:
   - type: video
     filename: 1.mp4
-    caption: "Navigation demo: filtering by year, by sport, or both."
+    caption: "Navigation demo: filtering by year, by sport, or by both."
 ---
 
 The UCLA Bruins have a rich history as the #1 winner of NCAA championships, holding the most NCAA titles of any university. Working as a web developer at UCLA Athletics, I set out to design an interactive page for exploring these over 100 titles that accommodates several use cases while remaining intuitive to navigate.
