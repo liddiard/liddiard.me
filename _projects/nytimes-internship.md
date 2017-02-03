@@ -16,7 +16,7 @@ media:
     filename: 4.png
 ---
 
-I worked as a developer on the CMS team during my summer 2016 internship at The New York Times. I reimplemented the CMS's main dashboard search, a feature used hundreds of times per day by journalists to find specific pieces of content like articles, images, and videos.
+I worked as a developer on the CMS team in my summer 2016 internship at The New York Times. I reimplemented the CMS's main dashboard search, a feature used hundreds of times per day by journalists to find specific pieces of content like articles, images, and videos.
 
 The existing search was slow and poorly formatted. Returning results could take several seconds, and the results were not very accurate. The search form required a user to fill out several inputs, explicity filtering by multiple fields to get relavent results. Results were shown in a table that was difficult to scan quickly because information to identify an asset was spread across the screen without any visual heirarchy.
 
