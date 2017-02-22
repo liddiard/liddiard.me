@@ -16,7 +16,7 @@ permalink: /resume/
             <ul>
                 <li>Increased CMS search speed 10x with Elasticsearch.</li>
                 <li>Rewrote search frontend with reduced UI complexity, instant feedback, results designed for quick scanning.</li>
-                <li>Built beginning of a story workflow status console in React.</li>
+                <li>Built beginning of story workflow status console in React.</li>
             </ul>
         </div>
         <div class="item">
