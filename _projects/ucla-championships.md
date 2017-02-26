@@ -24,4 +24,6 @@ In order to accommodate all of these use cases cleanly, I came up with a two-par
 
 Clicking a year filters the list and highlights all sports in which UCLA won a championship that year, and vice versa when clicking a sport. Take a look at the accompanying video for a better visual explanation of how the navigation makes it easy to browse either by year or by sport, or to quickly locate a specific championship.
 
-I built the web page with React because it offers a nice minimal framework for a small page like this while handling the manipulation of hundreds of DOM elements with ease. Championship data is pulled from a Google Sheet for easy updating by non-technical staff.
+I built the web page with React because it offers a minimal framework for a small page like this while handling the quick manipulation of hundreds of DOM elements. 
+
+Championship data is pulled from a JSON file on Amazon S3 that is updatable by non-technical staff through a Google Sheet using [google-sheet-s3](https://github.com/liddiard/google-sheet-s3), a Google Sheets add-on I wrote.
