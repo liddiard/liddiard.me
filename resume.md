@@ -33,7 +33,7 @@ permalink: /resume/
             <h4 class="company">UCLA Athletics</h4>
             <ul>
                 <li>Worked among several departments to prioritize, design, and create pages for major athletic events.</li>
-                <li>Developed internal applications to improve development workflow.</li>
+                <li>Developed internal applications to improve workflow process.</li>
                 <li>Worked with website provider to coordinate full site redesign, created web style guide.</li>
             </ul>
         </div>
