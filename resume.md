@@ -32,9 +32,9 @@ permalink: /resume/
             <h3 class="position">Web Developer &amp; Designer <span class="date">2014 – present</span></h3>
             <h4 class="company">UCLA Athletics</h4>
             <ul>
-                <li>Worked with several departments to prioritize, design, and code custom pages for major athletic events.</li>
-                <li>Created internal applications to improve development workflow, established a style guide for the website.</li>
-                <li>Worked with website provider to coordinate full site redesign.</li>
+                <li>Worked among many departments to prioritize, design, and code pages for athletic events and ticketing.</li>
+                <li>Developed internal applications to improve development workflow.</li>
+                <li>Worked with website provider to coordinate full site redesign and created web style guide.</li>
             </ul>
         </div>
         <div class="item">
