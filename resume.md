@@ -21,7 +21,7 @@ permalink: /resume/
         </div>
         <div class="item">
             <h3 class="position">Software Engineering Intern, hackNY Fellow <span class="date">Summer 2015</span></h3>
-            <h4 class="company">Offerpop, Inc.</h4>
+            <h4 class="company">Wyng</h4>
             <ul>
                 <li>Created customizable UI components for campaign page builder.</li>
                 <li>Developed full stack using React, Django, Flask, MongoDB.</li>
