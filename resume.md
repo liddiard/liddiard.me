@@ -74,8 +74,8 @@ permalink: /resume/
             <h4>Python, Django, Flask</h4>
             <h4>HTML, CSS, Sass</h4>
             <h4>C++</h4>
-            <h4>SQL and NoSQL databases</h4>
             <h4>Git, Bash</h4>
+            <h4>User experience design</h4>
         </div>
         <h2>Achievements &amp; Extracurricular</h2>
         <div class="item">
