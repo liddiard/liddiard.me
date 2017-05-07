@@ -1,7 +1,7 @@
 ---
 title: GIFdatabase
 description: The internet’s finest animated GIF search
-order: 4
+order: 6
 involvement: creator
 skills: Django, PostgreSQL, image processing, user accounts, Amazon S3, caching, jQuery, web development
 link: http://gifdatabase.com

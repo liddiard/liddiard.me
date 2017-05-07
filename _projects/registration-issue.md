@@ -1,7 +1,7 @@
 ---
 title: Daily Bruin Registration Issue 2013
 description: Online features for the year’s largest issue
-order: 1
+order: 3
 involvement: website creator
 skills: web development
 link: http://dailybruin.com/registration-issue-2013

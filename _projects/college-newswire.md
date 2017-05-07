@@ -1,7 +1,7 @@
 ---
 title: College Newswire
 description: Content aggregation for university newspapers
-order: 2
+order: 4
 involvement: creator
 skills: vanilla JS, RSS, web development
 link: http://wire.dailybruin.com

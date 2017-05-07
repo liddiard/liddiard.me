@@ -1,5 +1,6 @@
 ---
 title: Wedding videography
+description: Filming and editing video for a photo shoot and reception
 order: 1
 involvement: videographer
 skills: photography, videography, color grading, video editing

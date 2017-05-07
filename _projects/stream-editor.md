@@ -1,7 +1,7 @@
 ---
 title: Stream Editor
 description: Interactive online text processing with Unix utilities
-order: 10
+order: 12
 involvement: creator
 skills: React, Flask, Bash, Sass, web development
 github: liddiard/stream-editor
