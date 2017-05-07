@@ -43,10 +43,7 @@ layout: default
         </figure>
       {% when 'video' %}
         <figure>
-          <!-- workaround to serve video from Git LFS, which doesn't support 
-               GitHub Pages https://github.com/git-lfs/git-lfs/issues/791 
-               Change the commit hash below to bust cache. https://rawgit.com/ -->
-          <video src="https://cdn.rawgit.com/liddiard/liddiard.me/f56a086aa3329fa1838dd4727e460a4ea9f3a904/media/{{ page.slug }}/{{ media.filename }}" controls autoplay muted loop playsinline></video>
+          <video src="/media/{{ page.slug }}/{{ media.filename }}" controls autoplay muted loop playsinline></video>
           {% if media.caption %}
             <figcaption>{{ media.caption }}</figcaption>
           {% endif %}
