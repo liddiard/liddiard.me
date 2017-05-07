@@ -36,4 +36,4 @@ For the wedding photo shoot video, I tried to supplement the photography by capt
 
 I shot on a Canon T2i with an 18-135mm zoom lens using manual focus, exposure, and shutter speed. I used a wide aperture for narrow depth of field. This made pulling focus more challenging but resulted in clean shots focused on the couple. I used [Magic Lantern](http://www.magiclantern.fm) to enable camera features like focus dots and zebra stripes.
 
-I did color grading and video editing in [Blender](https://www.blender.org). I aimed for a bright, golden color pallate with light vignetting. Despite shooting with only one camera, I used action cuts liberally to create smooth transitions.
+I did color grading and video editing in [Blender](https://www.blender.org). I aimed for a bright, golden color palette with light vignetting. While I shot using only one camera, I used action cuts to create smooth transitions.
