@@ -23,7 +23,7 @@ media:
     filename: 6.png
 ---
 
-As a member of the UCLA Video Production Crew, I was the director of photography ("DP") and head of special effects for the club's quarterly short film, *Blueshifted*. In my role as DP, I was in charge of camera and lighting. I managed grips and camera operators to set up and film shots. 
+As a member of the UCLA Video Production Crew, I was the director of photography ("DP") and head of special effects for the club's quarterly short film, *Blueshifted*. In my role as DP, I was in charge of cameras and lighting. I managed camera operators and grips to set up and film shots. 
 
 Several dark scenes made this film technically challenging to shoot. For outdoor nighttime shots, we lacked lighting equipment to flood areas with light, so I was forced to come up with creative lighting solutions. These included pointing a high-powered LED flashlight at a walking actress from off frame. This handheld light served as a kicker to provide contrast between her figure and the surrounding darkness.
 
