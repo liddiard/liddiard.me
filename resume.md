@@ -80,7 +80,7 @@ permalink: /resume/
         <h2>Achievements &amp; Extracurricular</h2>
         <div class="item">
             <h4>Eagle Scout with Bronze Palm</h4>
-            <h4>UCLA ACM Teach assistant</h4>
+            <h4>Planned events managing over $10,000</h4>
             <h4>Data blog editor at the Daily Bruin</h4>
             <h4>Black belt in Kenpo</h4>
             <h4>Yamaha Music School graduate</h4>
