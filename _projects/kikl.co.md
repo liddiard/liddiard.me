@@ -1,6 +1,6 @@
 ---
 title: kikl.co
-description: Tiny, short-lived, memorable URLs
+description: The link shortener for easy to type and remember URLs
 order: 15
 involvement: creator
 skills: Django, PostgreSQL, SQL queries, rate limiting, user accounts
