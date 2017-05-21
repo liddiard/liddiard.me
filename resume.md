@@ -15,8 +15,8 @@ permalink: /resume/
             <h4 class="company">The New York Times</h4>
             <ul>
                 <li>Increased CMS search speed 10x with Elasticsearch.</li>
-                <li>Rewrote search frontend with reduced UI complexity, instant feedback, results designed for quick scanning.</li>
-                <li>Built beginning of story workflow status console in React.</li>
+                <li>Search frontend: reduced UI complexity, designed results for quick scanning, provided as-you-type feedback for queries.</li>
+                <li>Wrote a typographic headline balancer using binary search that now runs on every article page of NYTimes.com.</li>
             </ul>
         </div>
         <div class="item">
