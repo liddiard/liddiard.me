@@ -16,7 +16,7 @@ permalink: /resume/
             <ul>
                 <li>Increased CMS search speed 10x with Elasticsearch.</li>
                 <li>Search frontend: reduced UI complexity, designed results for quick scanning, provided as-you-type feedback for queries.</li>
-                <li>Wrote a typographic headline balancer using binary search that now runs on every article page of NYTimes.com.</li>
+                <li>Wrote a typographic headline balancer using binary search that runs on all NYTimes.com article pages.</li>
             </ul>
         </div>
         <div class="item">
