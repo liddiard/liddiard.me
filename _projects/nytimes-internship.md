@@ -31,12 +31,12 @@ The new implementation sped up search performance 10x.
 
 In addition to this backend work I implemented with another intern, I designed and coded a new search frontend using Backbone, Marionette, and LESS. 
 
-The old search form required a user to fill out several inputs, explicitly filtering by multiple fields to get relavent results. Results were displayed in a table that was difficult to scan quickly because information to identify an asset was spread across the screen without visual heirarchy.
+The old search form required a user to fill out several inputs, explicitly filtering by multiple fields to get relevant results. Results were displayed in a table that was difficult to scan quickly because information to identify an asset was spread across the screen without visual hierarchy.
 
 I formatted the new search results in a familiar Google-style layout which emphasized a matching item's slug – a unique, human-readable identifier that a journalist would quickly recognize. I got rid of the several form elements in favor of a single search box. 
 
 The UI displays example searches that demonstrate how to narrow a search easily by adding e.g. a relevant section or author to the query. Search results update as one types for instant feedback.
 
-I worked with the frontend team to use our new Elasticsearch infastructure create the beginnings of a React based, live-updating story status console where reporters and editors will be able to monitor story progress throughout the writing and editing process.
+I worked with the frontend team to use our new Elasticsearch infrastructure create the beginnings of a React based, live-updating story status console where reporters and editors will be able to monitor story progress throughout the writing and editing process.
 
 I wrote the core code for a [typographic headline balancer](https://github.com/NYTimes/text-balancer) that is now used on all NYTimes.com article pages. I implemented the balancing algorithm using binary search. After my internship ended, other developers made the balancer into an [NPM package](https://www.npmjs.com/package/text-balancer), added font load event listeners, and made the code production ready.
