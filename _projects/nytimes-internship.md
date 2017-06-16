@@ -12,8 +12,6 @@ media:
   - type: image
     filename: 2.png
   - type: image
-    filename: 3.png
-  - type: image
     filename: 4.png
   - type: image
     filename: 5.gif
