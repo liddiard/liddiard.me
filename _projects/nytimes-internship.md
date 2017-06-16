@@ -1,6 +1,6 @@
 ---
-title: The New York Times CMS dashboard search
-description: Fast and accurate resource location with Elasticsearch
+title: New York Times internship
+description: CMS search optimization and typographic headline balancing
 order: 17
 involvement: developer
 skills: Backbone, Marionette, Elasticsearch, React, Java
