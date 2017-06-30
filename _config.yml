@@ -10,7 +10,7 @@ title: Harrison Liddiard
 email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://harrisonliddiard.com" # the base hostname & protocol for your site
-description: "Harrison Liddiard is a UCLA student, developer, and hackNY alumus in Los Angeles who has worked for The New York Times. See his projects and resume."
+description: "Harrison Liddiard is a software engineer at PayPal and a UCLA graduate, previously at The New York Times and hackNY. See his projects and resume." # 150-160 chars max
 twitter_username: HLiddiard
 github_username:  liddiard
 linkedin_username: liddiard
