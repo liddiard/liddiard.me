@@ -5,6 +5,7 @@ order: 18
 involvement: creator
 skills: data visualization, React, Google Maps API
 link: https://driving-time-map.harrisonliddiard.com
+github: liddiard/driving-time-heatmap
 media:
   - type: image
     filename: 1.png
