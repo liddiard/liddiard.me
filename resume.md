@@ -58,8 +58,8 @@ permalink: /resume/
     <section class="col right">
         <h2>Education</h2>
         <div class="item">
-            <h3 class="school">UCLA <span class="date">expected 2017</span></h3>
-            <h4>Linguistics and Computer Science</h4>
+            <h3 class="school">UCLA <span class="date">2017</span></h3>
+            <h4>BA, Linguistics and Computer Science</h4>
         </div>
         <h2>Projects</h2>
         <div class="item">
