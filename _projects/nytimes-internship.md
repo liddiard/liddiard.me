@@ -5,6 +5,7 @@ order: 17
 involvement: developer
 skills: Backbone, Marionette, Elasticsearch, React, Java
 link: https://open.nytimes.com/headline-balancing-act-6e92d3d6119
+github: NYTimes/text-balancer
 media:
   - type: image
     filename: 1.png
