@@ -29,7 +29,7 @@ permalink: /resume/
             </ul>
         </div>
         <div class="item">
-            <h3 class="position">Web Developer &amp; Designer <span class="date">2014 – present</span></h3>
+            <h3 class="position">Web Developer &amp; Designer <span class="date">2014 – 2017</span></h3>
             <h4 class="company">UCLA Athletics</h4>
             <ul>
                 <li>Worked among several departments to prioritize, design, and create pages for major athletic events.</li>
@@ -59,7 +59,7 @@ permalink: /resume/
         <h2>Education</h2>
         <div class="item">
             <h3 class="school">UCLA <span class="date">2017</span></h3>
-            <h4>BA, Linguistics and Computer Science</h4>
+            <h4>B.A., Linguistics and Computer Science</h4>
         </div>
         <h2>Projects</h2>
         <div class="item">
