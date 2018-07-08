@@ -32,9 +32,9 @@ permalink: /resume/
             <h3 class="position">Software Engineering Intern, hackNY Fellow <span class="date">Summer 2015</span></h3>
             <h4 class="company">Wyng</h4>
             <ul>
+                <li>Accepted into hackNY Fellows mentorship program, learned from NYC founders and civic leaders.</li>
                 <li>Created customizable UI components for campaign page builder.</li>
                 <li>Developed full stack using React, Django, Flask, MongoDB.</li>
-                <li>Accepted into hackNY Fellows mentorship program, learned from NYC founders and civic leaders.</li>
             </ul>
         </div>
         <div class="item">
