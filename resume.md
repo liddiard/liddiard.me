@@ -29,7 +29,7 @@ permalink: /resume/
             </ul>
         </div>
         <div class="item">
-            <h3 class="position">Software Engineering Intern, hackNY Fellow <span class="date">Summer 2015</span></h3>
+            <h3 class="position">hackNY Fellow, Software Engineering Intern <span class="date">Summer 2015</span></h3>
             <h4 class="company">Wyng</h4>
             <ul>
                 <li>Accepted into hackNY Fellows mentorship program, learned from NYC founders and civic leaders.</li>
