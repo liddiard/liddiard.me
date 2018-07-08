@@ -50,7 +50,7 @@ permalink: /resume/
             <h3 class="position">Managing Editor, Digital <span class="date">2014 – 2015</span></h3>
             <h4 class="company">Daily Bruin</h4>
             <ul>
-                <li>Managed 80+ people in web development, videography, podcasting, and blogging at the university newspaper.</li>
+                <li>Taught and advised 80+ people in web development, videography, podcasting, and blogging at the university newspaper.</li>
                 <li>Coordinated interdepartmental breaking news coverage and collaboration on feature stories.</li>
             </ul>
         </div>
