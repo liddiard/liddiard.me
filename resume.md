@@ -89,10 +89,10 @@ permalink: /resume/
     </section>
     <div class="more">
         <div class="experience">
-            Additional work experience at <a href="https://linkedin.com/in/liddiard/">linkedin.com/in/liddiard</a>.
+            More work experience at <a href="https://linkedin.com/in/liddiard/">linkedin.com/in/liddiard</a>.
         </div>
         <div class="projects">
-            Additional projects at <a href="http://www.harrisonliddiard.com/">harrisonliddiard.com</a>.
+            More projects at <a href="http://www.harrisonliddiard.com/">harrisonliddiard.com</a>.
         </div>
     </div>
 </section>
