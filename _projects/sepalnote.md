@@ -1,6 +1,6 @@
 ---
 title: Sepalnote
-description: Hierarchical note-taking for the web (under development)
+description: Hierarchical note-taking for the web (incomplete)
 order: 8
 involvement: creator
 skills: Django, PostgreSQL, AngularJS, vanilla JS, user accounts, web development
