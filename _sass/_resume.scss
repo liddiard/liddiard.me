@@ -41,6 +41,7 @@ section#resume {
     max-width: 960px;
     position: relative;
     font-family: $helvetica;
+    line-height: 1.4;
 
     h1, h2, h3, h4, h5, h6 {
         margin: 0;
@@ -79,7 +80,7 @@ section#resume {
         margin: 0.6em 0;
 
         li {
-            margin-bottom: 0.3em;
+            margin-bottom: 0.35em;
         }
     }
 
