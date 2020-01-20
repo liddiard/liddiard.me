@@ -1,6 +1,6 @@
 # [harrisonliddiard.com](https://harrisonliddiard.com)
 
-a.k.a. [liddiard.me](http://liddiard.me)
+a.k.a. [harrisonliddiard.com](https://harrisonliddiard.com)
 
 My current personal website – Jekyll + GitHub pages.
 
